@@ -252,3 +252,7 @@ Through this project, I practiced:
 **Version 1.0 — Completed**
 
 BIZFLOW currently operates as a terminal-based business management application using Python and SQLite.
+
+👤 Author
+
+Hussein Monem
